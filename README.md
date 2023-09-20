@@ -22,7 +22,7 @@
     <h2 style="color: #646EFF; margin-bottom: 5px;">Work Experience</h2>
     <div style="margin-top: -10px; display: flex; justify-content: space-between; margin-bottom: 10px;">
         <h3> 경희대학교 국제캠퍼스 (사서)</h3>    
-        <h4 style="color: lightgray;">2021.06 ~ 2021.11</h4>
+        <h4 style="color: #c0c0c0;">2021.06 ~ 2021.11</h4>
     </div>
     <div style="margin-bottom: 10px;">    
         <span>중앙도서관에서 자료분류론을 기반으로 수서한 도서의 메타데이터를 입력하고 데이터베이스에 저장시키는 일을 하였습니다.</span>    
@@ -40,7 +40,7 @@
     <h2 style="color: #646EFF; margin-bottom: 5px;">Other Experience</h2>
     <div style="margin-top: -10px; display: flex; justify-content: space-between; margin-bottom: 10px;">
         <h3> 멋쟁이 사자처럼 (동아리) </h3>
-        <h4 style="color: lightgray;">2020.03 ~ 2020.12</h4>
+        <h4 style="color: #c0c0c0;">2020.03 ~ 2020.12</h4>
     </div>
     <div style="margin-bottom: 10px;">    
         <span>대학교 동아리인 멋쟁이 사자처럼에 참가하여 아이디어 아이데이션, 프로젝트 등을 경험하였습니다.</span>    
@@ -54,7 +54,7 @@
     <div style="margin-bottom: 50px;"></div>
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
         <h3> 우아한 프리코스 </h3>
-        <h4 style="color: lightgray;">2022.10 ~ 2022.12</h4>
+        <h4 style="color: #c0c0c0;">2022.10 ~ 2022.12</h4>
     </div>
     <div style="margin-bottom: 10px;">
         <span>우아한 형제들에서 주최하는 우아한 프리코스에 참가하여 Java와 Junit 및 객체지향에 대해 학습하였습니다.</span>
@@ -72,7 +72,7 @@
     <h2 style="color: #646EFF; margin-bottom: 5px;">Education</h2>
     <div style="margin-top: -10px; display: flex; justify-content: space-between; margin-bottom: 10px;">
         <h3> 경기대학교 문헌정보학과 학사과정 </h3>
-        <h4 style="color: lightgray;">2018.03 ~ 2021.02</h4>
+        <h4 style="color: #c0c0c0;">2018.03 ~ 2021.02</h4>
     </div>
 </div>
 
