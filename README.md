@@ -1,2 +1,71 @@
-# fumMango
-resume
+<h1 style="margin-bottom: 5px; border: none;">이민호 이력서</h1>
+<p style="margin-top: -10px; color: lightgray;">IOS Devloper</p>
+
+<h2 style="color: #646EFF">Contact</h2>
+GitHub: https://github.com/funMango </br>
+Email: bluemango608@gmail.com  
+<div style="margin-bottom: 50px;"></div>
+
+<h2 style="color: #646EFF">About me</h2>
+문제를 정의하고 해결책을 찾는 과정을 좋아하는 신입 IOS 개발자 입니다.</br>
+문제를 해결하는 과정에서 기술들을 배우는 것을 즐기고 또 적용하며 발전하는 것을 좋아합니다.</br>
+일상생활에서 사람들에게 도움이 되는 서비스를 만드는데 기여하고 싶습니다.
+<div style="margin-bottom: 50px;"></div>
+
+<h2 style="color: #646EFF; margin-bottom: 5px;">Work Experience</h2>
+<div style="margin-top: -10px; display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <h3> 경희대학교 국제캠퍼스 (사서)</h3>    
+    <h4 style="color: lightgray;">2021.06 ~ 2021.11</h4>
+</div>
+<div style="margin-bottom: 10px;">    
+    <span>중앙도서관에서 자료분류론을 기반으로 수서한 도서의 메타데이터를 입력하고 데이터베이스에 저장시키는 일을 하였습니다.</span>    
+</div>
+<div>
+    <ul>
+        <li>Oracle을 기반으로 하는 Alma프로그램을 활용하여 도서의 데이터를 입력하였습니다.</li>
+        <li>Excel을 활용하여 도서관의 전반적인 행정업무를 처리하였습니다.</li>
+    </ul>
+</div>
+<div style="margin-bottom: 50px;"></div>
+
+<div style= "margin-bottom: 50px;">
+    <h2 style="color: #646EFF; margin-bottom: 5px;">Other Experience</h2>
+    <div style="margin-top: -10px; display: flex; justify-content: space-between; margin-bottom: 10px;">
+        <h3> 멋쟁이 사자처럼 (동아리) </h3>
+        <h4 style="color: lightgray;">2020.03 ~ 2020.12</h4>
+    </div>
+    <div style="margin-bottom: 10px;">    
+        <span>대학교 동아리인 멋쟁이 사자처럼에 참가하여 아이디어 아이데이션, 프로젝트 등을 경험하였습니다.</span>    
+    </div>
+    <div>
+        <ul>
+            <li>퍼블리셔 역할로 호텔 예약 사이트 만들기 프로젝트를 진행하였습니다.</li>
+            <li>Python을 배우고 Django 프레임워크를 사용하여 쇼핑몰 만들기 프로젝트를 진행하였습니다.</li>
+        </ul>
+    </div>
+    <div style="margin-bottom: 50px;"></div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+        <h3> 우아한 테크코스 (프리코스) </h3>
+        <h4 style="color: lightgray;">2022.10 ~ 2022.12</h4>
+    </div>
+    <div style="margin-bottom: 10px;">
+        <span>우아한 형제들에서 주최하는 우아한 프리코스에 참가하여 Java와 Junit 및 객체지향에 대해 학습하였습니다.</span>
+    </div>
+    <div>
+        <ul>
+            <li>로또 당첨번호만들기 프로젝트를 통해 함수를 나누는 학습을 하였습니다.</li>
+            <li>메뉴추천 만들기 프로젝트를 통해 객체지향에 대해 학습하였습니다.</li>
+            <li>Junit을 활용하여 단위테스트를 적용하고 학습하였습니다.</li>
+        </ul>
+    </div>
+<div>
+
+
+<h2 style="color: #646EFF; margin-bottom: 5px;">Education</h2>
+<div style="margin-top: -10px; display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <h3> 경기대학교 문헌정보학과 학사과정 </h3>
+    <h4 style="color: lightgray;">2018.03 ~ 2021.02</h4>
+</div>
+
+
+
